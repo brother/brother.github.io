@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/brother
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://martin.bagge.nu
+  * I am brother (https://keybase.io/brother) on keybase.
+  * I have a public key with fingerprint ABAC ACA5 1304 E95D F505  CC88 FF96 7EB8 8605 55EE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "abacaca51304e95df505cc88ff967eb8860555ee",
+            "host": "keybase.io",
+            "key_id": "ff967eb8860555ee",
+            "uid": "712797b90236c4f3575ab33c7428ba00",
+            "username": "brother"
+        },
+        "service": {
+            "hostname": "martin.bagge.nu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398254202,
+    "expire_in": 157680000,
+    "prev": "22f0a3175f368c831943841c7684f359c97f4d27df3216ed199cdb8b0d5afd7f",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.11
+Comment: https://keybase.io/crypto
+
+yMHuAnicbZFrSBRfGMZ317VQEY2ksJCW+UNBrNtcd2a2pKSQIsUoodJymcuZdTRn
+ttnZ1XUzw7A2jQJDEDMMCpJFCsIk7YtFSTfR6OKl/tvlg7oklC7BIiqeEfvWnA+H
+ed7f87zn5X2enmRKNb/zVxVsIGJ285vBuN907HikLoTwqhhEXCGkCqxekqx4gObV
+ZEVHXAjHcwI8FEagJGApUaJQShAYRpJYJw14hnGiFEUBgNiRCtVnOGAMz/mAQ1ah
+Bn/csgjVf/D+1QKN4TRL8yyKE06BlAiKpjieIASaxBmeQ1ED9AFN4aoBpHlN1SuA
+htTbESgGZAGKodXOa0A1p+my4uA5jwc4FD90e6FFFdQzsFih616X4dWDXgOuAbx7
+LcbNy4oIJ4eGANB8sqogLgySgi4buRjBMjhF4ihuR0CtV9aAWzYIinYyKPyMNiAA
+I3FcQjkCoymJcDICQ2AsSTAkJkDOGI4VWFoiRZwWJQLHnEDEWFYQeYZHRYqTRFqC
+/X3grKIiLgI+k/PASJ/sUTjdrwGk/tngKavJnGpal2wxdmdKTcn8u9F4+frFlLuL
+R0c+mEO35vvbRqmOyRrGkpGIRTMWd4fQYlvS6Fjm/vbo9Vj5cO9c1peS/r38/K7b
+JzZ+7yKPhNPaPwfqii8n0gdKHkws/cp92VbW96khfu2HdSa98z5ju0Q+Lfqp9eJj
+f57kdm5acJe+DTY/PB3ecTLPNP01urWnMDpQkp0xsNPTOrtvvPFb96P/rF1Y2tJk
+5YHa5EMfH7c0FfRkVt8ZzrH8TrxosEb65Jl7eTe6p/Mn/l/Y7BgaeVWa2LNFKD8/
+Vfk6f7AoO8fWyMbHL2QtCPJ4eKymtaU3UtXM+uSrs1NlxUPLseVI07bgzYPW8Lzl
+Ysf7K9vnbIXhc4ctKxhxGl4=
+=u4H9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brother
+
+==================================================================
